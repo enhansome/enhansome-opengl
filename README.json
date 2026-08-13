@@ -1,0 +1,374 @@
+{
+  "items": [
+    {
+      "description": "Debugging and profiling libraries",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tracy",
+          "description": "A real time remote telemetry frame profiler for games and other applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T16:17:05Z",
+            "owner": "wolfpld",
+            "repo": "tracy",
+            "stars": 16575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RenderDoc",
+          "description": "RenderDoc is a stand-alone graphics debugging tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T15:50:19Z",
+            "owner": "baldurk",
+            "repo": "renderdoc",
+            "stars": 10969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vogl",
+          "description": "OpenGL capture and playback debugger developed by Valve.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-11-21T14:55:19Z",
+            "owner": "ValveSoftware",
+            "repo": "vogl",
+            "stars": 1430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeXL",
+          "description": "AMD's tool suite that includes debugger, profiler and frame/shader analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-04-29T17:38:37Z",
+            "owner": "GPUOpen-Archive",
+            "repo": "CodeXL",
+            "stars": 1009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLIntercept",
+          "description": "OpenGL function call interceptor for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-12-02T09:07:27Z",
+            "owner": "dtrebilco",
+            "repo": "glintercept",
+            "stars": 552
+          }
+        }
+      ],
+      "title": "Debug"
+    },
+    {
+      "description": "Useful libraries for OpenGL applications",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "raylib",
+          "description": "A simple and easy-to-use library to enjoy videogames programming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T11:06:48Z",
+            "owner": "raysan5",
+            "repo": "raylib",
+            "stars": 34287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "assimp",
+          "description": "Portable library to import 3D models in a uniform manner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:28:16Z",
+            "owner": "assimp",
+            "repo": "assimp",
+            "stars": 13131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magnum",
+          "description": "It is a 2D/3D graphics engine for modern OpenGL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T10:09:49Z",
+            "owner": "mosra",
+            "repo": "magnum",
+            "stars": 5186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pangolin",
+          "description": "Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-14T20:39:44Z",
+            "owner": "stevenlovegrove",
+            "repo": "Pangolin",
+            "stars": 2735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLFM",
+          "description": "Supplies an OpenGL ES context and input events for mobile devices and the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-21T19:58:47Z",
+            "owner": "brackeen",
+            "repo": "glfm",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "morphologica",
+          "description": "OpenGL graphics engine for data visualization, especially of numerical simulations.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-06-26T09:18:00Z",
+            "owner": "ABRG-Models",
+            "repo": "morphologica",
+            "stars": 308
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "Profile loaders for OpenGL",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "glad",
+          "description": "Multi profile loader-generator based on the official specs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-18T11:37:32Z",
+            "owner": "Dav1dde",
+            "repo": "glad",
+            "stars": 4574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glbinding",
+          "description": "Profile loader leveraging C++11 features to provide type safety.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T16:59:11Z",
+            "owner": "cginternals",
+            "repo": "glbinding",
+            "stars": 878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gl3w",
+          "description": "Simple OpenGL core profile loader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-07T07:33:08Z",
+            "owner": "skaslev",
+            "repo": "gl3w",
+            "stars": 746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glbindify",
+          "description": "Command line tool to generate C bindings for OpenGL, wgl, and glX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-01-01T21:18:42Z",
+            "owner": "nnesse",
+            "repo": "glbindify",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Profile Loaders"
+    },
+    {
+      "description": "OpenGL tutorial websites",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "3D Game Shaders For Beginners",
+          "description": "by David Lettier",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-06-25T21:58:57Z",
+            "owner": "lettier",
+            "repo": "3d-game-shaders-for-beginners",
+            "stars": 19814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenGL Examples",
+          "description": "by Norbert Nopper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T18:15:51Z",
+            "owner": "McNopper",
+            "repo": "OpenGL",
+            "stars": 2597
+          }
+        }
+      ],
+      "title": "Websites"
+    },
+    {
+      "description": "Similar awesome lists",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome",
+          "description": "A curated list of awesome lists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T18:21:16Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 495062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-computer-vision",
+          "description": "A curated list of awesome computer vision resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-17T14:24:27Z",
+            "owner": "jbhuang0604",
+            "repo": "awesome-computer-vision",
+            "stars": 23491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gamedev",
+          "description": "A awesome list about game development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-08-10T17:51:51Z",
+            "owner": "ellisonleao",
+            "repo": "magictools",
+            "stars": 17117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-vulkan",
+          "description": "A curated list of awesome Vulkan projects and ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-11T04:37:02Z",
+            "owner": "vinjn",
+            "repo": "awesome-vulkan",
+            "stars": 3716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphics-resources",
+          "description": "A list of graphic programming resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-30T21:02:56Z",
+            "owner": "mattdesl",
+            "repo": "graphics-resources",
+            "stars": 1853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-webgl",
+          "description": "A curated list of awesome WebGL libraries, resources and much more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-02T03:35:40Z",
+            "owner": "sjfricke",
+            "repo": "awesome-webgl",
+            "stars": 1525
+          }
+        }
+      ],
+      "title": "Related lists"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+      "items": [],
+      "title": "License"
+    },
+    {
+      "description": "Please see CONTRIBUTING for details.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:30:36.229Z",
+    "original_repository": "eug/awesome-opengl",
+    "original_repository_sha": "4d252a8d95c5c905d7d2a03d70cf78eab01e9db6",
+    "enhanced_repository": "enhansome/enhansome-opengl",
+    "enhanced_repository_description": null,
+    "title": "awesome-opengl with stars"
+  }
+}
