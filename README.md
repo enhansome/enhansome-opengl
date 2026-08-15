@@ -44,8 +44,8 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Debugging and profiling libraries*
 
-* [tracy](https://github.com/wolfpld/tracy) ⭐ 16,588 | 🐛 208 | 🌐 C++ | 📅 2026-08-13 - A real time remote telemetry frame profiler for games and other applications.
-* [RenderDoc](https://github.com/baldurk/renderdoc) ⭐ 10,973 | 🐛 50 | 🌐 C++ | 📅 2026-08-13 - RenderDoc is a stand-alone graphics debugging tool.
+* [tracy](https://github.com/wolfpld/tracy) ⭐ 16,594 | 🐛 204 | 🌐 C++ | 📅 2026-08-15 - A real time remote telemetry frame profiler for games and other applications.
+* [RenderDoc](https://github.com/baldurk/renderdoc) ⭐ 10,976 | 🐛 50 | 🌐 C++ | 📅 2026-08-15 - RenderDoc is a stand-alone graphics debugging tool.
 * [vogl](https://github.com/ValveSoftware/vogl) ⭐ 1,430 | 🐛 95 | 🌐 C++ | 📅 2017-11-21 - OpenGL capture and playback debugger developed by Valve.
 * [CodeXL](https://github.com/GPUOpen-Tools/CodeXL) ⚠️ Archived - AMD's tool suite that includes debugger, profiler and frame/shader analysis.
 * [GLIntercept](https://github.com/dtrebilco/glintercept) ⭐ 552 | 🐛 5 | 🌐 C++ | 📅 2022-12-02 - OpenGL function call interceptor for Windows.
@@ -68,10 +68,10 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Useful libraries for OpenGL applications*
 
-* [raylib](https://github.com/raysan5/raylib) ⭐ 34,312 | 🐛 29 | 🌐 C | 📅 2026-08-13 - A simple and easy-to-use library to enjoy videogames programming.
-* [assimp](https://github.com/assimp/assimp) ⭐ 13,133 | 🐛 525 | 🌐 C++ | 📅 2026-08-13 - Portable library to import 3D models in a uniform manner.
+* [raylib](https://github.com/raysan5/raylib) ⭐ 34,328 | 🐛 29 | 🌐 C | 📅 2026-08-13 - A simple and easy-to-use library to enjoy videogames programming.
+* [assimp](https://github.com/assimp/assimp) ⭐ 13,133 | 🐛 526 | 🌐 C++ | 📅 2026-08-13 - Portable library to import 3D models in a uniform manner.
 * [Magnum](https://github.com/mosra/magnum) ⭐ 5,187 | 🐛 77 | 🌐 C++ | 📅 2026-08-06 - It is a 2D/3D graphics engine for modern OpenGL.
-* [Pangolin](https://github.com/stevenlovegrove/Pangolin) ⭐ 2,736 | 🐛 48 | 🌐 C++ | 📅 2026-05-14 - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
+* [Pangolin](https://github.com/stevenlovegrove/Pangolin) ⭐ 2,737 | 🐛 48 | 🌐 C++ | 📅 2026-05-14 - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 * [GLFM](https://github.com/brackeen/glfm) ⭐ 620 | 🐛 16 | 🌐 C | 📅 2025-05-21 - Supplies an OpenGL ES context and input events for mobile devices and the web.
 * [morphologica](https://github.com/ABRG-Models/morphologica) ⚠️ Archived - OpenGL graphics engine for data visualization, especially of numerical simulations.
 * [Bullet](http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
@@ -90,7 +90,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Profile loaders for OpenGL*
 
-* [glad](https://github.com/Dav1dde/glad) ⭐ 4,576 | 🐛 32 | 🌐 C | 📅 2026-06-18 - Multi profile loader-generator based on the official specs.
+* [glad](https://github.com/Dav1dde/glad) ⭐ 4,579 | 🐛 32 | 🌐 C | 📅 2026-06-18 - Multi profile loader-generator based on the official specs.
 * [glbinding](https://github.com/cginternals/glbinding) ⭐ 878 | 🐛 26 | 🌐 C++ | 📅 2026-08-04 - Profile loader leveraging C++11 features to provide type safety.
 * [gl3w](https://github.com/skaslev/gl3w) ⭐ 746 | 🐛 12 | 🌐 Python | 📅 2025-11-07 - Simple OpenGL core profile loader.
 * [glbindify](https://github.com/nnesse/glbindify) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2016-01-01 - Command line tool to generate C bindings for OpenGL, wgl, and glX.
@@ -132,7 +132,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *OpenGL tutorial websites*
 
-* [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,821 | 🐛 18 | 🌐 C++ | 📅 2023-06-25 by **David Lettier**
+* [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,823 | 🐛 18 | 🌐 C++ | 📅 2023-06-25 by **David Lettier**
 * [OpenGL Examples](https://github.com/McNopper/OpenGL) ⭐ 2,598 | 🐛 0 | 🌐 C | 📅 2026-08-01 by **Norbert Nopper**
 * [Learn OpenGL](https://learnopengl.com) by **Joey de Vries**
 * [Learning Modern 3D Graphics Programming](https://bitbucket.org/alfonse/gltut/wiki/Home) by **Jason L. McKesson**
@@ -148,9 +148,9 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Similar awesome lists*
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,622 | 🐛 100 | 📅 2026-06-30 - A curated list of awesome lists.
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,495 | 🐛 91 | 📅 2024-05-17 - A curated list of awesome computer vision resources.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,123 | 🐛 12 | 🌐 Markdown | 📅 2026-08-10 - A awesome list about game development.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,983 | 🐛 100 | 📅 2026-06-30 - A curated list of awesome lists.
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,496 | 🐛 91 | 📅 2024-05-17 - A curated list of awesome computer vision resources.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,130 | 🐛 13 | 🌐 Markdown | 📅 2026-08-10 - A awesome list about game development.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,716 | 🐛 4 | 📅 2026-05-11 - A curated list of awesome Vulkan projects and ecosystem.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,853 | 🐛 5 | 📅 2020-12-30 - A list of graphic programming resources.
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) ⭐ 1,525 | 🐛 11 | 📅 2026-04-02 - A curated list of awesome WebGL libraries, resources and much more.
@@ -167,4 +167,4 @@ Please see [CONTRIBUTING](https://github.com/eug/awesome-opengl/blob/master/CONT
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
