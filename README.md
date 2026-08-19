@@ -44,7 +44,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Debugging and profiling libraries*
 
-* [tracy](https://github.com/wolfpld/tracy) ⭐ 16,621 | 🐛 181 | 🌐 C++ | 📅 2026-08-18 - A real time remote telemetry frame profiler for games and other applications.
+* [tracy](https://github.com/wolfpld/tracy) ⭐ 16,622 | 🐛 181 | 🌐 C++ | 📅 2026-08-18 - A real time remote telemetry frame profiler for games and other applications.
 * [RenderDoc](https://github.com/baldurk/renderdoc) ⭐ 10,989 | 🐛 49 | 🌐 C++ | 📅 2026-08-18 - RenderDoc is a stand-alone graphics debugging tool.
 * [vogl](https://github.com/ValveSoftware/vogl) ⭐ 1,430 | 🐛 95 | 🌐 C++ | 📅 2017-11-21 - OpenGL capture and playback debugger developed by Valve.
 * [CodeXL](https://github.com/GPUOpen-Tools/CodeXL) ⚠️ Archived - AMD's tool suite that includes debugger, profiler and frame/shader analysis.
@@ -148,9 +148,9 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Similar awesome lists*
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,666 | 🐛 102 | 📅 2026-08-18 - A curated list of awesome lists.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,679 | 🐛 102 | 📅 2026-08-18 - A curated list of awesome lists.
 * [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,504 | 🐛 91 | 📅 2024-05-17 - A curated list of awesome computer vision resources.
-* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,150 | 🐛 12 | 🌐 Markdown | 📅 2026-08-17 - A awesome list about game development.
+* [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,151 | 🐛 12 | 🌐 Markdown | 📅 2026-08-17 - A awesome list about game development.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,716 | 🐛 5 | 📅 2026-05-11 - A curated list of awesome Vulkan projects and ecosystem.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,853 | 🐛 5 | 📅 2020-12-30 - A list of graphic programming resources.
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) ⭐ 1,527 | 🐛 14 | 📅 2026-04-02 - A curated list of awesome WebGL libraries, resources and much more.

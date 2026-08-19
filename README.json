@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T21:20:06Z",
             "owner": "wolfpld",
             "repo": "tracy",
-            "stars": 16621
+            "stars": 16622
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497666
+            "stars": 497679
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17150
+            "stars": 17151
           }
         },
         {
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:44:57.495Z",
+    "last_updated": "2026-08-19T13:38:18.691Z",
     "original_repository": "eug/awesome-opengl",
     "original_repository_id": 37971591,
     "original_repository_sha": "4d252a8d95c5c905d7d2a03d70cf78eab01e9db6",
