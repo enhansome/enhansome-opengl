@@ -44,7 +44,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Debugging and profiling libraries*
 
-* [tracy](https://github.com/wolfpld/tracy) ⭐ 16,658 | 🐛 166 | 🌐 C++ | 📅 2026-08-22 - A real time remote telemetry frame profiler for games and other applications.
+* [tracy](https://github.com/wolfpld/tracy) ⭐ 16,659 | 🐛 166 | 🌐 C++ | 📅 2026-08-22 - A real time remote telemetry frame profiler for games and other applications.
 * [RenderDoc](https://github.com/baldurk/renderdoc) ⭐ 11,007 | 🐛 49 | 🌐 C++ | 📅 2026-08-20 - RenderDoc is a stand-alone graphics debugging tool.
 * [vogl](https://github.com/ValveSoftware/vogl) ⭐ 1,430 | 🐛 95 | 🌐 C++ | 📅 2017-11-21 - OpenGL capture and playback debugger developed by Valve.
 * [CodeXL](https://github.com/GPUOpen-Tools/CodeXL) ⚠️ Archived - AMD's tool suite that includes debugger, profiler and frame/shader analysis.
@@ -68,7 +68,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Useful libraries for OpenGL applications*
 
-* [raylib](https://github.com/raysan5/raylib) ⭐ 34,453 | 🐛 22 | 🌐 C | 📅 2026-08-24 - A simple and easy-to-use library to enjoy videogames programming.
+* [raylib](https://github.com/raysan5/raylib) ⭐ 34,454 | 🐛 22 | 🌐 C | 📅 2026-08-24 - A simple and easy-to-use library to enjoy videogames programming.
 * [assimp](https://github.com/assimp/assimp) ⭐ 13,160 | 🐛 541 | 🌐 C++ | 📅 2026-08-24 - Portable library to import 3D models in a uniform manner.
 * [Magnum](https://github.com/mosra/magnum) ⭐ 5,194 | 🐛 76 | 🌐 C++ | 📅 2026-08-23 - It is a 2D/3D graphics engine for modern OpenGL.
 * [Pangolin](https://github.com/stevenlovegrove/Pangolin) ⭐ 2,739 | 🐛 48 | 🌐 C++ | 📅 2026-08-19 - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
@@ -148,7 +148,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Similar awesome lists*
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,501 | 🐛 106 | 📅 2026-08-21 - A curated list of awesome lists.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,509 | 🐛 106 | 📅 2026-08-21 - A curated list of awesome lists.
 * [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,517 | 🐛 91 | 📅 2024-05-17 - A curated list of awesome computer vision resources.
 * [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,191 | 🐛 14 | 🌐 Markdown | 📅 2026-08-17 - A awesome list about game development.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,713 | 🐛 5 | 📅 2026-05-11 - A curated list of awesome Vulkan projects and ecosystem.
