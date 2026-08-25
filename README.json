@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T18:21:57Z",
             "owner": "wolfpld",
             "repo": "tracy",
-            "stars": 16659
+            "stars": 16660
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 17253131,
             "language": "C++",
-            "last_commit": "2026-08-20T11:10:19Z",
+            "last_commit": "2026-08-24T20:52:44Z",
             "owner": "baldurk",
             "repo": "renderdoc",
-            "stars": 11007
+            "stars": 11011
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 13836499,
             "language": "C",
-            "last_commit": "2026-08-24T11:34:47Z",
+            "last_commit": "2026-08-24T14:19:56Z",
             "owner": "raysan5",
             "repo": "raylib",
-            "stars": 34454
+            "stars": 34461
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2023-06-25T21:58:57Z",
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19853
+            "stars": 19854
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-01T18:15:51Z",
             "owner": "McNopper",
             "repo": "OpenGL",
-            "stars": 2602
+            "stars": 2601
           }
         }
       ],
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499509
+            "stars": 499694
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17191
+            "stars": 17194
           }
         },
         {
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:39.428Z",
+    "last_updated": "2026-08-25T05:56:37.893Z",
     "original_repository": "eug/awesome-opengl",
     "original_repository_id": 37971591,
     "original_repository_sha": "4d252a8d95c5c905d7d2a03d70cf78eab01e9db6",
