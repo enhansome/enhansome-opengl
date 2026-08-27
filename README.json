@@ -12,10 +12,10 @@
             "archived": false,
             "id": 248058818,
             "language": "C++",
-            "last_commit": "2026-08-25T15:52:29Z",
+            "last_commit": "2026-08-27T16:51:58Z",
             "owner": "wolfpld",
             "repo": "tracy",
-            "stars": 16670
+            "stars": 16673
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 17253131,
             "language": "C++",
-            "last_commit": "2026-08-26T10:43:45Z",
+            "last_commit": "2026-08-27T17:02:51Z",
             "owner": "baldurk",
             "repo": "renderdoc",
             "stars": 11027
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-26T19:11:34Z",
             "owner": "raysan5",
             "repo": "raylib",
-            "stars": 34484
+            "stars": 34483
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2023-06-25T21:58:57Z",
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19855
+            "stars": 19857
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500366
+            "stars": 500523
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23520
+            "stars": 23521
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-08-25T12:55:42Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17204
+            "stars": 17208
           }
         },
         {
@@ -377,7 +377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:57:40.040Z",
+    "last_updated": "2026-08-27T22:43:08.270Z",
     "original_repository_info": {
       "archived": false,
       "id": 37971591,
