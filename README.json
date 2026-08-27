@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T15:52:29Z",
             "owner": "wolfpld",
             "repo": "tracy",
-            "stars": 16667
+            "stars": 16670
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-26T10:43:45Z",
             "owner": "baldurk",
             "repo": "renderdoc",
-            "stars": 11019
+            "stars": 11027
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 13836499,
             "language": "C",
-            "last_commit": "2026-08-25T18:18:17Z",
+            "last_commit": "2026-08-26T19:11:34Z",
             "owner": "raysan5",
             "repo": "raylib",
-            "stars": 34471
+            "stars": 34484
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 648332,
             "language": "C++",
-            "last_commit": "2026-08-26T08:34:31Z",
+            "last_commit": "2026-08-27T07:23:46Z",
             "owner": "assimp",
             "repo": "assimp",
-            "stars": 13164
+            "stars": 13166
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-23T10:24:48Z",
             "owner": "mosra",
             "repo": "magnum",
-            "stars": 5194
+            "stars": 5195
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-19T06:39:22Z",
             "owner": "stevenlovegrove",
             "repo": "Pangolin",
-            "stars": 2739
+            "stars": 2740
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2023-06-25T21:58:57Z",
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19854
+            "stars": 19855
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500095
+            "stars": 500366
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2024-05-17T14:24:27Z",
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23517
+            "stars": 23520
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-08-25T12:55:42Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17198
+            "stars": 17204
           }
         },
         {
@@ -377,9 +377,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:48:47.248Z",
-    "original_repository": "eug/awesome-opengl",
-    "original_repository_id": 37971591,
+    "last_updated": "2026-08-27T11:57:40.040Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 37971591,
+      "language": null,
+      "last_commit": "2026-01-09T12:26:55Z",
+      "owner": "eug",
+      "repo": "awesome-opengl",
+      "stars": 2437
+    },
     "original_repository_sha": "4d252a8d95c5c905d7d2a03d70cf78eab01e9db6",
     "enhanced_repository": "enhansome/enhansome-opengl",
     "enhanced_repository_description": null,
