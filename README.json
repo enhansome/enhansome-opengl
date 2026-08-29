@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frame profiler",
+            "homepage": "https://tracy.nereid.pl/",
             "id": 248058818,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T09:52:16Z",
+            "open_issues": 167,
             "owner": "wolfpld",
             "repo": "tracy",
-            "stars": 16677
+            "stars": 16679,
+            "topics": [
+              "gamedev",
+              "gamedev-library",
+              "gamedevelopment",
+              "library",
+              "performance",
+              "performance-analysis",
+              "profiler",
+              "profiling",
+              "profiling-library"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -26,12 +41,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RenderDoc is a stand-alone graphics debugging tool.",
+            "homepage": "https://renderdoc.org",
             "id": 17253131,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:53:53Z",
+            "open_issues": 49,
             "owner": "baldurk",
             "repo": "renderdoc",
-            "stars": 11032
+            "stars": 11032,
+            "topics": [
+              "d3d11",
+              "d3d12",
+              "debugger",
+              "direct3d",
+              "directx",
+              "graphics",
+              "graphics-programming",
+              "opengl",
+              "renderdoc",
+              "vulkan",
+              "vulkan-api"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -42,12 +74,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenGL capture / playback debugger.",
+            "homepage": null,
             "id": 17684902,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2017-11-21T14:55:19Z",
+            "open_issues": 95,
             "owner": "ValveSoftware",
             "repo": "vogl",
-            "stars": 1430
+            "stars": 1430,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -58,12 +95,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CodeXL is a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.",
+            "homepage": "http://gpuopen.com/compute-product/codexl/",
             "id": 56045114,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2020-04-29T17:38:37Z",
+            "open_issues": 0,
             "owner": "GPUOpen-Archive",
             "repo": "CodeXL",
-            "stars": 1009
+            "stars": 1009,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -74,12 +116,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GLIntercept is a OpenGL function call interceptor for Windows that will intercept and log all OpenGL calls",
+            "homepage": null,
             "id": 33540821,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-12-02T09:07:27Z",
+            "open_issues": 5,
             "owner": "dtrebilco",
             "repo": "glintercept",
-            "stars": 553
+            "stars": 553,
+            "topics": [
+              "opengl"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         }
@@ -96,12 +145,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and easy-to-use library to enjoy videogames programming",
+            "homepage": "http://www.raylib.com",
             "id": 13836499,
             "language": "C",
+            "license": "Zlib",
             "last_commit": "2026-08-28T19:40:23Z",
+            "open_issues": 15,
             "owner": "raysan5",
             "repo": "raylib",
-            "stars": 34490
+            "stars": 34494,
+            "topics": [
+              "android",
+              "c",
+              "embedded",
+              "esp32",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "graphics",
+              "iot",
+              "linux",
+              "macos",
+              "opengl",
+              "programming",
+              "raspberry-pi",
+              "raylib",
+              "riscv",
+              "wasm",
+              "webassembly",
+              "win32"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -112,12 +186,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. ",
+            "homepage": "https://www.assimp.org",
             "id": 648332,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T09:23:19Z",
+            "open_issues": 543,
             "owner": "assimp",
             "repo": "assimp",
-            "stars": 13167
+            "stars": 13167,
+            "topics": [
+              "3mf",
+              "android",
+              "asset-pipeline",
+              "assets",
+              "assimp",
+              "c-plus-plus",
+              "collada",
+              "dae",
+              "fbx",
+              "fbx-exporter",
+              "game-development",
+              "gamedev-tool",
+              "gamedevelopment",
+              "gltf",
+              "gltf2",
+              "ifc",
+              "patreon",
+              "python",
+              "stl"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -128,12 +227,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight and modular C++11 graphics middleware for games and data visualization",
+            "homepage": "https://magnum.graphics/",
             "id": 1182756,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T10:24:48Z",
+            "open_issues": 76,
             "owner": "mosra",
             "repo": "magnum",
-            "stars": 5196
+            "stars": 5196,
+            "topics": [
+              "3d",
+              "android",
+              "c-plus-plus",
+              "c-plus-plus-11",
+              "cmake",
+              "emscripten",
+              "game",
+              "game-engine",
+              "gamedev",
+              "glfw",
+              "graphics",
+              "graphics-engine",
+              "ios",
+              "magnum",
+              "opengl",
+              "sdl",
+              "spir-v",
+              "vulkan",
+              "webassembly",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -144,12 +269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.",
+            "homepage": null,
             "id": 1096480,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-19T06:39:22Z",
+            "open_issues": 48,
             "owner": "stevenlovegrove",
             "repo": "Pangolin",
-            "stars": 2740
+            "stars": 2740,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -160,12 +290,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenGL ES and input for iOS, tvOS, Android, and WebGL",
+            "homepage": null,
             "id": 19005184,
             "language": "C",
+            "license": "Zlib",
             "last_commit": "2025-05-21T19:58:47Z",
+            "open_issues": 17,
             "owner": "brackeen",
             "repo": "glfm",
-            "stars": 620
+            "stars": 620,
+            "topics": [
+              "android",
+              "c",
+              "emscripten",
+              "ios",
+              "opengles",
+              "tvos"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -176,12 +318,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "C++ header-only graphing and data visualization with Modern OpenGL",
+            "homepage": "https://abrg-models.github.io/morphologica/",
             "id": 137862983,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-26T09:18:00Z",
+            "open_issues": 0,
             "owner": "ABRG-Models",
             "repo": "morphologica",
-            "stars": 308
+            "stars": 308,
+            "topics": [
+              "2d",
+              "3d",
+              "cplusplus",
+              "cplusplus-17",
+              "data-visualization",
+              "graphics",
+              "graphics-engine",
+              "graphs",
+              "matplotlib",
+              "opengl",
+              "plotting",
+              "simulation",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         }
@@ -198,12 +359,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.",
+            "homepage": "https://gen.glad.sh/",
             "id": 11737385,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-18T11:37:32Z",
+            "open_issues": 32,
             "owner": "Dav1dde",
             "repo": "glad",
-            "stars": 4591
+            "stars": 4591,
+            "topics": [
+              "c",
+              "code-generation",
+              "cpp",
+              "d",
+              "egl",
+              "generator",
+              "gl",
+              "glad",
+              "gles",
+              "gles2",
+              "glx",
+              "loader-generator",
+              "nim",
+              "opengl",
+              "pascal",
+              "python",
+              "rust",
+              "vulkan",
+              "wgl"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -214,12 +400,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C++ binding for the OpenGL API, generated using the gl.xml specification. ",
+            "homepage": "https://glbinding.org",
             "id": 19405480,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-04T16:59:11Z",
+            "open_issues": 26,
             "owner": "cginternals",
             "repo": "glbinding",
-            "stars": 878
+            "stars": 878,
+            "topics": [
+              "c-plus-plus",
+              "c-plus-plus-11",
+              "library",
+              "opengl-bindings",
+              "opengl-library"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -230,12 +427,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple OpenGL core profile loading",
+            "homepage": "http://github.com/skaslev/gl3w",
             "id": 585485,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2026-08-17T07:55:18Z",
+            "open_issues": 12,
             "owner": "skaslev",
             "repo": "gl3w",
-            "stars": 747
+            "stars": 747,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -246,12 +448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C binding generator for OpenGL API's",
+            "homepage": null,
             "id": 25984120,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2016-01-01T21:18:42Z",
+            "open_issues": 0,
             "owner": "nnesse",
             "repo": "glbindify",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         }
@@ -268,12 +475,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.",
+            "homepage": "https://lettier.github.io/3d-game-shaders-for-beginners/index.html",
             "id": 186309296,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-06-25T21:58:57Z",
+            "open_issues": 18,
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19859
+            "stars": 19859,
+            "topics": [
+              "3d",
+              "3d-graphics",
+              "game-development",
+              "gamedev",
+              "glsl",
+              "glsl-shader",
+              "glsl-shaders",
+              "godot",
+              "graphics",
+              "graphics-programming",
+              "hlsl",
+              "indiedev",
+              "opengl",
+              "panda3d",
+              "shader",
+              "shaders",
+              "unity",
+              "unity3d",
+              "vulkan",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -284,12 +517,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenGL 3 and 4 examples using GLSL",
+            "homepage": null,
             "id": 8373358,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-01T18:15:51Z",
+            "open_issues": 0,
             "owner": "McNopper",
             "repo": "OpenGL",
-            "stars": 2601
+            "stars": 2601,
+            "topics": [
+              "examples",
+              "opengl"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         }
@@ -306,12 +547,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500844
+            "stars": 500891,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -322,12 +574,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome computer vision resources",
+            "homepage": null,
             "id": 29357796,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-17T14:24:27Z",
+            "open_issues": 92,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23520
+            "stars": 23520,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -338,12 +595,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
+            "homepage": null,
             "id": 21958186,
             "language": "Markdown",
-            "last_commit": "2026-08-28T17:26:39Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:14:32Z",
+            "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17212
+            "stars": 17212,
+            "topics": [
+              "art",
+              "awesome",
+              "awesome-list",
+              "board-games",
+              "curated",
+              "design",
+              "frameworks",
+              "game-design",
+              "game-development",
+              "game-engine",
+              "game-jam",
+              "game-programming",
+              "gamedev",
+              "games",
+              "hacktoberfest",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -354,12 +633,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Vulkan ecosystem",
+            "homepage": "https://vinjn.github.io/awesome-vulkan/",
             "id": 51843752,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-11T04:37:02Z",
+            "open_issues": 5,
             "owner": "vinjn",
             "repo": "awesome-vulkan",
-            "stars": 3714
+            "stars": 3714,
+            "topics": [
+              "amd",
+              "arm",
+              "khronos",
+              "nvidia",
+              "opengl",
+              "qualcomm",
+              "vulkan",
+              "vulkan-api",
+              "vulkan-libraries"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -370,12 +664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: a list of graphic programming resources",
+            "homepage": null,
             "id": 38935281,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-12-30T21:02:56Z",
+            "open_issues": 5,
             "owner": "mattdesl",
             "repo": "graphics-resources",
-            "stars": 1853
+            "stars": 1854,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         },
@@ -386,12 +685,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome WebGL libraries, resources and much more",
+            "homepage": null,
             "id": 77980522,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-04-02T03:35:40Z",
+            "open_issues": 16,
             "owner": "sjfricke",
             "repo": "awesome-webgl",
-            "stars": 1528
+            "stars": 1529,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "glsl-editors",
+              "learning-webgl",
+              "list",
+              "webgl",
+              "webgl-articles",
+              "webgl-programming",
+              "webgl-references",
+              "webgl-spec-sheet",
+              "webgl-tutorials"
+            ]
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
         }
@@ -400,15 +716,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:50:07.379Z",
+    "last_updated": "2026-08-29T04:24:19.499Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome OpenGL libraries, debuggers and resources.",
+      "homepage": null,
       "id": 37971591,
       "language": null,
+      "license": null,
       "last_commit": "2026-01-09T12:26:55Z",
+      "open_issues": 0,
       "owner": "eug",
       "repo": "awesome-opengl",
-      "stars": 2437
+      "stars": 2437,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "computer-graphics",
+        "game-development",
+        "glsl-editors",
+        "graphics-pipeline",
+        "lists",
+        "opengl",
+        "opengl-library",
+        "opengl-tutorial",
+        "video-tutorial"
+      ]
     },
     "original_repository_sha": "4d252a8d95c5c905d7d2a03d70cf78eab01e9db6",
     "enhanced_repository": "enhansome/enhansome-opengl",
