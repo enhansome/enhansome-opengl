@@ -15,11 +15,11 @@
             "id": 248058818,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T11:04:37Z",
+            "last_commit": "2026-09-16T02:22:00Z",
             "open_issues": 165,
             "owner": "wolfpld",
             "repo": "tracy",
-            "stars": 16781,
+            "stars": 16787,
             "topics": [
               "gamedev",
               "gamedev-library",
@@ -46,11 +46,11 @@
             "id": 17253131,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-15T16:01:02Z",
+            "last_commit": "2026-09-16T13:12:30Z",
             "open_issues": 50,
             "owner": "baldurk",
             "repo": "renderdoc",
-            "stars": 11086,
+            "stars": 11087,
             "topics": [
               "d3d11",
               "d3d12",
@@ -150,11 +150,11 @@
             "id": 13836499,
             "language": "C",
             "license": "Zlib",
-            "last_commit": "2026-09-14T18:08:37Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-16T17:11:09Z",
+            "open_issues": 17,
             "owner": "raysan5",
             "repo": "raylib",
-            "stars": 34734,
+            "stars": 34754,
             "topics": [
               "android",
               "c",
@@ -192,7 +192,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T13:10:47Z",
-            "open_issues": 536,
+            "open_issues": 556,
             "owner": "assimp",
             "repo": "assimp",
             "stars": 13203,
@@ -236,7 +236,7 @@
             "open_issues": 76,
             "owner": "mosra",
             "repo": "magnum",
-            "stars": 5208,
+            "stars": 5209,
             "topics": [
               "3d",
               "android",
@@ -484,7 +484,7 @@
             "open_issues": 18,
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19897,
+            "stars": 19900,
             "topics": [
               "3d",
               "3d-graphics",
@@ -526,7 +526,7 @@
             "open_issues": 0,
             "owner": "McNopper",
             "repo": "OpenGL",
-            "stars": 2608,
+            "stars": 2609,
             "topics": [
               "examples",
               "opengl"
@@ -556,7 +556,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 506288,
+            "stars": 506666,
             "topics": [
               "awesome",
               "awesome-list",
@@ -583,7 +583,7 @@
             "open_issues": 92,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23556,
+            "stars": 23555,
             "topics": []
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
@@ -604,7 +604,7 @@
             "open_issues": 15,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17306,
+            "stars": 17314,
             "topics": [
               "art",
               "awesome",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:25:36.127Z",
+    "last_updated": "2026-09-16T17:24:31.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenGL libraries, debuggers and resources.",
