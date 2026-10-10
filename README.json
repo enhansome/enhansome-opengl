@@ -15,11 +15,11 @@
             "id": 248058818,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T19:24:48Z",
-            "open_issues": 166,
+            "last_commit": "2026-10-09T21:54:55Z",
+            "open_issues": 167,
             "owner": "wolfpld",
             "repo": "tracy",
-            "stars": 16899,
+            "stars": 16906,
             "topics": [
               "gamedev",
               "gamedev-library",
@@ -50,7 +50,7 @@
             "open_issues": 50,
             "owner": "baldurk",
             "repo": "renderdoc",
-            "stars": 11163,
+            "stars": 11164,
             "topics": [
               "d3d11",
               "d3d12",
@@ -150,11 +150,11 @@
             "id": 13836499,
             "language": "C",
             "license": "Zlib",
-            "last_commit": "2026-10-09T07:50:29Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-10T07:20:02Z",
+            "open_issues": 13,
             "owner": "raysan5",
             "repo": "raylib",
-            "stars": 35083,
+            "stars": 35141,
             "topics": [
               "android",
               "c",
@@ -191,11 +191,11 @@
             "id": 648332,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T14:04:21Z",
-            "open_issues": 565,
+            "last_commit": "2026-10-10T16:45:02Z",
+            "open_issues": 569,
             "owner": "assimp",
             "repo": "assimp",
-            "stars": 13253,
+            "stars": 13257,
             "topics": [
               "3mf",
               "android",
@@ -484,7 +484,7 @@
             "open_issues": 18,
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19939,
+            "stars": 19943,
             "topics": [
               "3d",
               "3d-graphics",
@@ -522,11 +522,11 @@
             "id": 8373358,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-08T10:25:27Z",
+            "last_commit": "2026-10-10T04:56:17Z",
             "open_issues": 0,
             "owner": "McNopper",
             "repo": "OpenGL",
-            "stars": 2611,
+            "stars": 2610,
             "topics": [
               "examples",
               "opengl"
@@ -556,7 +556,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 516688,
+            "stars": 517143,
             "topics": [
               "awesome",
               "awesome-list",
@@ -583,7 +583,7 @@
             "open_issues": 97,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23585,
+            "stars": 23586,
             "topics": []
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
@@ -601,10 +601,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-10-09T13:42:22Z",
-            "open_issues": 34,
+            "open_issues": 36,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17454,
+            "stars": 17461,
             "topics": [
               "art",
               "awesome",
@@ -639,7 +639,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-05-11T04:37:02Z",
-            "open_issues": 6,
+            "open_issues": 8,
             "owner": "vinjn",
             "repo": "awesome-vulkan",
             "stars": 3721,
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:36:32.100Z",
+    "last_updated": "2026-10-10T17:34:37.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenGL libraries, debuggers and resources.",
@@ -728,7 +728,7 @@
       "open_issues": 0,
       "owner": "eug",
       "repo": "awesome-opengl",
-      "stars": 2447,
+      "stars": 2449,
       "topics": [
         "awesome",
         "awesome-list",
