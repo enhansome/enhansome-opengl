@@ -15,11 +15,11 @@
             "id": 248058818,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T00:08:31Z",
-            "open_issues": 164,
+            "last_commit": "2026-10-15T23:23:57Z",
+            "open_issues": 168,
             "owner": "wolfpld",
             "repo": "tracy",
-            "stars": 16953,
+            "stars": 16961,
             "topics": [
               "gamedev",
               "gamedev-library",
@@ -50,7 +50,7 @@
             "open_issues": 50,
             "owner": "baldurk",
             "repo": "renderdoc",
-            "stars": 11191,
+            "stars": 11195,
             "topics": [
               "d3d11",
               "d3d12",
@@ -83,7 +83,7 @@
             "open_issues": 95,
             "owner": "ValveSoftware",
             "repo": "vogl",
-            "stars": 1433,
+            "stars": 1432,
             "topics": []
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
@@ -150,11 +150,11 @@
             "id": 13836499,
             "language": "C",
             "license": "Zlib",
-            "last_commit": "2026-10-15T16:27:36Z",
+            "last_commit": "2026-10-16T08:43:21Z",
             "open_issues": 8,
             "owner": "raysan5",
             "repo": "raylib",
-            "stars": 35196,
+            "stars": 35230,
             "topics": [
               "android",
               "c",
@@ -195,7 +195,7 @@
             "open_issues": 593,
             "owner": "assimp",
             "repo": "assimp",
-            "stars": 13266,
+            "stars": 13268,
             "topics": [
               "3mf",
               "android",
@@ -232,11 +232,11 @@
             "id": 1182756,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T08:22:02Z",
+            "last_commit": "2026-10-15T18:52:00Z",
             "open_issues": 78,
             "owner": "mosra",
             "repo": "magnum",
-            "stars": 5219,
+            "stars": 5221,
             "topics": [
               "3d",
               "android",
@@ -278,7 +278,7 @@
             "open_issues": 48,
             "owner": "stevenlovegrove",
             "repo": "Pangolin",
-            "stars": 2750,
+            "stars": 2751,
             "topics": []
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
@@ -365,7 +365,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-28T08:07:03Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "Dav1dde",
             "repo": "glad",
             "stars": 4614,
@@ -484,7 +484,7 @@
             "open_issues": 18,
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19959,
+            "stars": 19963,
             "topics": [
               "3d",
               "3d-graphics",
@@ -556,7 +556,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 519390,
+            "stars": 519886,
             "topics": [
               "awesome",
               "awesome-list",
@@ -583,7 +583,7 @@
             "open_issues": 99,
             "owner": "jbhuang0604",
             "repo": "awesome-computer-vision",
-            "stars": 23598,
+            "stars": 23600,
             "topics": []
           },
           "first_seen": "2026-08-28T22:50:07.379Z"
@@ -600,11 +600,11 @@
             "id": 21958186,
             "language": "Markdown",
             "license": "MIT",
-            "last_commit": "2026-10-14T17:40:31Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-16T13:08:56Z",
+            "open_issues": 40,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17496,
+            "stars": 17501,
             "topics": [
               "art",
               "awesome",
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T17:32:36.972Z",
+    "last_updated": "2026-10-16T17:08:01.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome OpenGL libraries, debuggers and resources.",
